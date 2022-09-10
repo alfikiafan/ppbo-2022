@@ -8,5 +8,5 @@
 > Universitas Sebelas Maret  
 > Dosen pengampu: [Ardhi Wijayanto, S.Kom., M.Cs.](http://github.com/ardhiesta)  
 > Asisten Dosen:  
+> - [Christopher Aaron W](https://github.com/magezter-stdnt)  
 > - [Muhammad Alwiza Ansyar](https://github.com/alwizzz)  
-> - [Christopher Aaron W](https://github.com/magezter-stdnt)
