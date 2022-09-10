@@ -1,2 +1,8 @@
-# PPBO-2022
-Tugas Mata Kuliah Praktikum Pemrograman Berorientasi Objek
+## Mata Kuliah Praktikum Pemrograman Berorientasi Objek
+### Repositori Praktikum dan Responsi yang Ditugaskan oleh Asisten Dosen
+- Nama: [Alfiki Diastama Afan Firdaus](http://github.com/alfikiafan)
+- NIM: M0521009
+
+> Program Studi Informatika  
+> Universitas Sebelas Maret  
+> Dosen pengampu: [Ardhi Wijayanto, S.Kom., M.Cs.](http://github.com/ardhiesta)  
