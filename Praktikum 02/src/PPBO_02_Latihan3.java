@@ -1,5 +1,6 @@
 // Nama: Alfiki Diastama Afan Firdaus
 // NIM : M0521009
+
 public class PPBO_02_Latihan3 {
     String nim, nama, alamat;
     char jenisKelamin;
